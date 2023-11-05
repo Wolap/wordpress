@@ -1,0 +1,32 @@
+
+.infos-revet {
+    margin: 2%;
+    display: flex;
+}
+
+.infos-revet img {
+    width: 30%;
+    height: 100%;
+}
+
+.revet-info-txt {
+    margin-inline: 3%;
+    font-size: 105%;
+}
+
+.revet-info-txt h2 {
+    margin-bottom: 3%;
+}
+
+.revet-info-txt p {
+    margin-bottom: 2%;
+}
+
+.caracteristiques {
+    display: flex;
+}
+
+.caracteristiques div {
+    padding-right: 10%;
+
+}

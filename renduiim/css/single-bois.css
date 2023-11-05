@@ -1,0 +1,33 @@
+
+.infos-bois {
+    margin: 2%;
+    display: flex;
+}
+
+.infos-bois img {
+    width: 30%;
+    height: 100%;
+    border: 2px solid #dedede;
+}
+
+.bois-info-txt {
+    margin-inline: 3%;
+    font-size: 105%;
+}
+
+.bois-info-txt h2 {
+    margin-bottom: 3%;
+}
+
+.bois-info-txt p {
+    margin-bottom: 2%;
+}
+
+.caracteristiques {
+    display: flex;
+}
+
+.caracteristiques div {
+    padding-right: 10%;
+
+}

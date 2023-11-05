@@ -1,0 +1,49 @@
+
+.container-bois {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin-inline: 5%;
+    margin-block: 2%;
+}
+
+.card-bois {
+    margin-inline: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #dedede;
+    box-shadow: 0px 0px 10px #dedede;
+}
+
+.card-bois img {
+    width: 45%;
+    height: 55%;
+}
+
+
+.card-bois a {
+    background-color: #446084;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding-inline: 5%;
+    padding-block: 2%;
+    transition: all 0.5s ease;
+    margin: 2%;
+    margin-top: 10%;
+    color: white;
+}
+
+.card-bois a:hover {
+    background-color: #374d6a;
+}
+
+
+
+
+
+
+
+
